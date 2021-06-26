@@ -1,0 +1,13 @@
+body {
+    background-color: #EAF6F6;
+}
+table tr td img {
+    width: 300px;
+}
+hr {
+    width: 5%;
+    height: 10px;
+    border-style: dotted none none;
+    border-width: 6px;
+    border-color: grey;
+}
